@@ -1,0 +1,12 @@
+{
+    "url": "https://amazing-euclid-b565e6.netlify.com/machine-learning-framework.json",
+    "objectives": ["Manually select test/train/validation", "Compute AUC for a set of results", "Train Naive Bayes", "Save model parameterization", "Join a Kaggle contest and submit results"],
+   "keywords" : ["Machine Learning","Supervised Learning", "Naive Bayes", "Kaggle", "ROC"],
+   "blog_post_4": {
+        "title": "Machine Weak?",
+        "url": "https://medium.com/@schwaaweb/machine-weak-e228687d1b31",
+        "keywords": ["Machine Learning","Supervised Learning", "Naive Bayes", "Kaggle", "ROC"]
+    } 
+}
+
+
